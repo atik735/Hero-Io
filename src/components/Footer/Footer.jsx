@@ -5,7 +5,7 @@ export default function Footer() {
     <footer class="bg-gray-900 text-gray-300 mt-10">
   <div class=" px-6 py-12 grid grid-cols-1 md:grid-cols-4 gap-8">
     <div>
-      <h2 class="text-2xl font-bold text-white">Ultra Apps</h2>
+      <h2 class="text-2xl font-bold text-white">Hero Io</h2>
       <p class="mt-4 text-sm text-gray-400">
         Discover powerful apps that make your life easier and smarter. Built with simplicity and performance in mind.
       </p>
@@ -47,8 +47,8 @@ export default function Footer() {
 
   <div class="border-t border-gray-700">
     <div class="max-w-7xl mx-auto px-6 py-4 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
-      <p>© 2026 Ultra Apps. All rights reserved.</p>
-      <p class="mt-2 md:mt-0">Made with ❤️ by Ultra Apps Team</p>
+      <p>© 2026 Hero Io. All rights reserved.</p>
+      <p class="mt-2 md:mt-0">Made with ❤️ by Hero Io Team</p>
     </div>
   </div>
 </footer>
