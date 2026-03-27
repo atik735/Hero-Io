@@ -44,7 +44,7 @@ export default function AppDetails() {
           <h1>Developed By Hero Io</h1>
 
           <hr />
-          <ToastContainer />
+          <ToastContainer /> 
           <div className="flex gap-5">
             <div className="flex flex-col gap-3">
               <img className="w-12 h-12" src={downdload} alt="" />
