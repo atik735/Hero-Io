@@ -6,7 +6,7 @@ import hero from '../../assets/hero.png'
 function Banner() {
   return (
     <div className='mt-16'>
-
+ 
       <div className='text-5xl font-bold text-center space-y-2'>
         <h1>We Build</h1>
         <h1><span className='text-violet-600'>Productive</span> Apps</h1>
