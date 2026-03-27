@@ -41,7 +41,7 @@ export default function AppDetails() {
         <div className="flex-1 space-y-4">
           <h1 className="text-xl font-bold">{app.title}</h1>
 
-          <h1>Developed By Ultra Apps</h1>
+          <h1>Developed By Hero Io</h1>
 
           <hr />
           <ToastContainer />
