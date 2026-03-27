@@ -57,7 +57,7 @@ export default function Navbar() {
         </div>
         <Link to={"/"} className="flex items-center gap-1">
           <img className="w-12" src={logo} />
-          <span className="text-xl font-bold">Ultra Apps</span>
+          <span className="text-xl font-bold">Hero Io</span>
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex text-2xl">
@@ -90,7 +90,7 @@ export default function Navbar() {
       </div>
       <div className="navbar-end">
         <Link
-          to={"https://github.com/Munna8383"}
+          to={"https://github.com/atik735"}
           className="flex gap-1 items-center px-3 py-1 bg-violet-700 text-white rounded-lg"
         >
           <span>
