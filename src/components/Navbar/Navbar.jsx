@@ -96,7 +96,7 @@ export default function Navbar() {
           <span>
             <FaGithub />
           </span>
-          <span>Contribute</span>
+          <span>Contribute</span> 
         </Link>
       </div>
     </div>
