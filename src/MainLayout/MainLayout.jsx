@@ -14,7 +14,7 @@ export default function MainLayout() {
   {navigation.state === "loading" && <div className='flex justify-center items-center min-h-screen'><span className="loading loading-bars loading-xl"></span></div>}
 
     <Outlet></Outlet>
-    <Footer></Footer>
+    <Footer></Footer> 
       
     </div>
   )
