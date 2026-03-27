@@ -31,9 +31,11 @@ export default function InstalledApps() {
                 key={index}
                 className="flex items-center bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md transition-shadow"
               >
-                {/* App Icon */}
-                <div className="w-12 h-12 bg-gray-200 rounded-xl flex-shrink-0 mr-4" />
-
+                <img
+                  src={`https://source.unsplash.com/100x100/?app,icon,${index}`}
+                  alt="App Icon"
+                  className="w-12 h-12 rounded-xl object-cover border border-gray-300 flex-shrink-0 mr-4"
+                />
                 {/* App Info */}
                 <div className="flex-1 min-w-0">
                   <h3 className="font-semibold text-lg text-gray-800">

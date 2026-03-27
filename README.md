@@ -31,4 +31,4 @@ Users can browse all available apps, view detailed information, and quickly find
 
 # 🧑‍💻 Author
 
-Developed By Jahed Ahmed Munna
+Developed By Atik Hassan
